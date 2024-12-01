@@ -1,2 +1,1 @@
-1. test
-1. dd
+Let's rename \*our-new-project\* to \*our-old-project\*.
