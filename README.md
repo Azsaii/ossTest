@@ -5,5 +5,5 @@
 
 | 왼쪽 정렬 | 중앙 정렬 | 오른쪽 정렬 |
 |:---|:---:|---:|
-| git status   | git status     | git status    |
+| git statusasdfsdfasdf   | git status asdfsadfasdf   | git status asdfsadfasdf   |
 | git diff     | git diff       | git diff      |
