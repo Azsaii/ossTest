@@ -1,1 +1,3 @@
-***all*** / **_all_** / _**all**_ / ___all___
+[x] Finish my changes
+[ ] Push my commits to GitHub
+[ ] Open a pull request
