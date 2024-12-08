@@ -1,6 +1,3 @@
-```javascript
+1. ㅇㅇㅇ
 
-if (isAwesome){
-  return true
-}
-```
+   ㅇㄻㄴㅇㄹㅇ
